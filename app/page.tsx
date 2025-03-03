@@ -44,7 +44,7 @@ export default function Home() {
         <Work />
         
         <About />
-        <Reviews/>
+        {/* <Reviews/> */}
         {/* <Blog /> */}
         <Contact />
         {/* <Footer /> */}

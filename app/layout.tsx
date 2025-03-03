@@ -11,35 +11,35 @@ const syne = Syne({
 });
 
 export const metadata: Metadata = {
-  title: "Usman Manzoor — Software Engineer",
+  title: "Talha Manzoor — Software Engineer",
   description:
-    "Machine Learning & Computer Vision Engineer | Innovating with AI & Robotics",
+    "Building high-performance apps that redefine user experience.",
   generator: "Next.js",
-  applicationName: "Usman Manzoor",
+  applicationName: "Talha Manzoor— Software Engineer",
   keywords: [
     "freelance",
-    "developer",
-    "freelance developer",
-    "AI",
-    "react",
-    "frontend developer",
-    "Robotics",
-    "ai",
-    "machine learning",
+    "android developer",
+    "ios developer",
+    "Mobile App Developer",
+    "Flutter",
+    "Web Developer",
+    "Software Engineer",
+    "Backend Developer",
+    "Hybrid Mobile App Developer",
     "creative engineer",
     "tech",
     "pakistan",
-    "computer vision engineer",
+    "mobile application",
     "software developer",
     "portfolio",
-    "frontend developer portfolio",
-    "creative developer portfolio",
+    "android",
+    "ios",
   ],
   colorScheme: "dark",
   openGraph: {
-    title: "Usman Manzoor — ML Engineer",
+    title: "Talha Manzoor — Software Engineer",
     description:
-      "Machine Learning & Computer Vision Engineer | Innovating with AI & Robotics",
+      "Building high-performance apps that redefine user experience.",
     url: "https://usmandev-243.vercel.app/",
     siteName: "https://usmandev-243.vercel.app/",
     images: [
@@ -47,7 +47,7 @@ export const metadata: Metadata = {
         url: "https://www.udacity.com/_next/image?url=https%3A%2F%2Fvideo.udacity-data.com%2Ftopher%2F2024%2FOctober%2F6709872f_nd0044%2Fnd0044.jpg&w=3840&q=75",
         width: 1200,
         height: 630,
-        alt: "Usman Manzoor — ML Engineer",
+        alt: "Talha Manzoor — Software Engineer",
       },
     ],
     locale: "en-US",
@@ -55,9 +55,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Usman Manzoor — ML Engineer",
+    title: "Talha Manzoor — Software Engineer",
     description:
-      "Machine Learning & Computer Vision Engineer | Innovating with AI & Robotics",
+      "Building high-performance apps that redefine user experience.",
     creator: "victorwill__",
     creatorId: "1243720976552144897",
     images: [

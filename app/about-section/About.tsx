@@ -14,7 +14,7 @@ const About = () => {
       <div className="mx-auto flex w-[90%] flex-col items-center justify-center lg:max-w-[1212.8px]">
         <AnimatedTitle
           text={
-            "I am Merging AI, Computer vision and Robotics to create impactful, real world solutions"
+            "Innovating the future of technology with world-class mobile and web applications."
           }
           className={
             "mb-10 text-left text-[40px] font-bold leading-[0.9em] tracking-tighter text-[#e4ded7] sm:text-[45px] md:mb-16 md:text-[60px] lg:text-[80px]"
@@ -27,12 +27,12 @@ const About = () => {
           <div className="mb-10 flex w-[100%] flex-col gap-4 text-[18px] font-medium  leading-relaxed tracking-wide text-[#e4ded7] md:mb-16 md:gap-6 md:text-[20px] md:leading-relaxed lg:mb-16  lg:max-w-[90%] lg:text-[24px] ">
             <AnimatedBody
               text={
-                "I specialise in developing AI-driven solutions with a focus on computer vision, machine learning, and robotics. With 10 years of experience as a software developer, I have worked on over 150 projects, ranging from AI-powered applications to autonomous systems. My expertise spans software engineering, API development, and integrating intelligent systems for real-world applications. Additionally, I have a strong background in web development and oversee a team of mobile application developers, ensuring efficient project execution and high-quality deliverables."
+                "As a skilled Flutter and Web Developer, I specialize in crafting high-performance mobile and web applications. With experience in GetX, BLoC, Firebase, API integration, and responsive design, I bring scalable and efficient solutions to life. My expertise spans multiple industries, from e-commerce to financial systems, ensuring seamless user experiences and optimized performance."
               }
             />
             <AnimatedBody
               text={
-                "Beyond my professional work, I am deeply engaged in research and continuously exploring advancements in AI and autonomous systems. I have taken advanced courses in machine learning and applied machine learning, achieving top grades, and actively contribute to the AI and robotics community."
+                "With hands-on experience at leading companies like Pukat Digital, Apporater, SigmaTec, and Softkel, I have built and maintained robust Flutter applications while collaborating with cross-functional teams. My ability to integrate third-party services, troubleshoot code, and enhance UI/UX has contributed to the success of various applications, making them both commercially viable and user-friendly."
               }
             />
             <AnimatedBody
@@ -43,7 +43,7 @@ const About = () => {
             />
             <AnimatedBody
               text={
-                "I'm always open to new opportunities, collaborations, and innovative projects that push the boundaries of AI and automation. Let’s connect and explore the future of intelligent systems together!"
+                "I am dedicated to transforming ideas into powerful digital solutions, constantly improving and optimizing mobile and web applications. My portfolio includes diverse projects such as DripDollars, Smart HR, IQProspects and WebPR, showcasing my ability to create scalable, intuitive, and efficient applications. With a strong eye for detail and a commitment to excellence, I strive to deliver innovative and future-ready apps. I'm always open to new opportunities, collaborations, and innovative projects."
               }
             />
             {/* <AnimatedBody
@@ -70,7 +70,7 @@ const About = () => {
               />
               <AnimatedBody
                 text={
-                  "C#, VB, Python, JavaScript, TypeScript."
+                  "Dart, JavaScript, Python, Java"
                 }
               />
             </div>
@@ -85,7 +85,7 @@ const About = () => {
               />
               <AnimatedBody
                 text={
-                  "Pytorch, TensorFlow, Keras, MXNet, OpenCV, NumPy, pandas, Matplotlib, Scipy, React, Next.js, Tailwind CSS, Material UI, Framer Motion, Bootstrap."
+                  "Flutter, React, Next.js, NodeJS, Redux, Redux Toolkit, Express.js, Tailwind CSS, Material UI, Firebase, Framer Motion."
                 }
               />
             </div>
@@ -100,7 +100,7 @@ const About = () => {
               />
               <AnimatedBody
                 text={
-                  "Visual Studio, SAP HANA, Visual Studio Code, Excel, Grafana, Influx DB for Digital Dashboarding."
+                  "Visual Studio Code, Android Studio, Xcode, Visual Studio, Git, Github Figma, MongoDB Compass, Postman."
                 }
               />
             </div>
@@ -130,7 +130,7 @@ const About = () => {
 
           <div className="flex flex-col gap-3 m-2 w-[100%] text-start ">
               <AnimatedTitle
-                text={"SBONE TFP Group"}
+                text={"SOFTKEL"}
                 className={
                   "text-[24px] text-[#e4ded7] md:text-[30px] lg:text-[20px]"
                 }
@@ -140,17 +140,17 @@ const About = () => {
             
                <div className="flex flex-row">
                <AnimatedTitle
-                text={"• Lead Techno Functional Consultant & Developer."}
+                text={"• Mobile & WEB Developer"}
                 className={
-                  "text-[13px] text-[#e4ded7] md:text-[14px] lg:text-[15px]"
+                  "text-[10px] text-[#e4ded7] md:text-[14px] lg:text-[15px]"
                 }
                 wordSpace={"mr-[0.25em]"}
                 charSpace={"mr-[0.01em]"}
               />
               <AnimatedTitle
-                text={"(November 2020 - Present)"}
+                text={"(March 2023 - Present)"}
                 className={
-                  "text-[13px] text-[#3c50d8] md:text-[14px] lg:text-[15px]"
+                  "text-[10px] text-[#3c50d8] md:text-[14px] lg:text-[15px]"
                 }
                 wordSpace={"mr-[0.25em]"}
                 charSpace={"mr-[0.01em]"}
@@ -160,7 +160,7 @@ const About = () => {
 
             <div className="flex flex-col gap-3 m-2 w-[100%] text-start">
               <AnimatedTitle
-                text={"HCC (Technolgy & Advisory)"}
+                text={"Apporater"}
                 className={
                   "text-[24px] text-[#e4ded7] md:text-[30px] lg:text-[20px]"
                 }
@@ -169,65 +169,29 @@ const About = () => {
               />
               <div className="flex flex-row">
               <AnimatedTitle
-                text={"• Manager Development."}
+                text={"• Mobile App Developer"}
                 className={
-                  "text-[13px] text-[#e4ded7] md:text-[14px] lg:text-[15px]"
+                  "text-[10px] text-[#e4ded7] md:text-[14px] lg:text-[15px]"
                 }
                 wordSpace={"mr-[0.25em]"}
                 charSpace={"mr-[0.01em]"}
               />
                <AnimatedTitle
-                text={"(March 2019 – December 2020)"}
+                text={"(Aug, 2024 - Jan,2025)"}
                 className={
-                  "text-[13px] text-[#3c50d8] md:text-[14px] lg:text-[15px]"
-                }
-                wordSpace={"mr-[0.25em]"}
-                charSpace={"mr-[0.01em]"}
-              />
-              </div>
-              <div className="flex flex-row">
-              <AnimatedTitle
-                text={"• Sr. Techno Functional Consultant - .Net Developer"}
-                className={
-                  "text-[13px] text-[#e4ded7] md:text-[14px] lg:text-[15px]"
-                }
-                wordSpace={"mr-[0.25em]"}
-                charSpace={"mr-[0.01em]"}
-              />
-              <AnimatedTitle
-                text={"(September 2017 - March 2019)"}
-                className={
-                  "text-[13px] text-[#3c50d8] md:text-[14px] lg:text-[15px]"
-                }
-                wordSpace={"mr-[0.25em]"}
-                charSpace={"mr-[0.01em]"}
-              />
-              </div>
-
-              <div className="flex flex-row">
-              <AnimatedTitle
-                text={"• SAP Developer Consultant"}
-                className={
-                  "text-[13px] text-[#e4ded7] md:text-[14px] lg:text-[15px]"
-                }
-                wordSpace={"mr-[0.25em]"}
-                charSpace={"mr-[0.01em]"}
-              />
-              <AnimatedTitle
-                text={"(March 2016 - August 2017)"}
-                className={
-                  "text-[8px] text-[#3c50d8] md:text-[14px] lg:text-[15px]"
+                  "text-[10px] text-[#3c50d8] md:text-[14px] lg:text-[15px]"
                 }
                 wordSpace={"mr-[0.25em]"}
                 charSpace={"mr-[0.01em]"}
               />
               </div>
            
+           
             </div>
 
             <div className="flex flex-col gap-3 m-2 w-[100%] text-start">
               <AnimatedTitle
-                text={"Softzee"}
+                text={"SigmaTec"}
                 className={
                   "text-[24px] text-[#e4ded7] md:text-[30px] lg:text-[20px]"
                 }
@@ -236,17 +200,17 @@ const About = () => {
               />
              <div className="flex flex-row">
              <AnimatedTitle
-                text={"• Junior Web Developer"}
+                text={"• Mobile App Developer"}
                 className={
-                  "text-[13px] text-[#e4ded7] md:text-[14px] lg:text-[15px]"
+                  "text-[10px] text-[#e4ded7] md:text-[14px] lg:text-[15px]"
                 }
                 wordSpace={"mr-[0.25em]"}
                 charSpace={"mr-[0.01em]"}
               />
                <AnimatedTitle
-                text={"(August 2015 - March 2016)"}
+                text={"(Jan, 2024 - July, 2024)"}
                 className={
-                  "text-[8px] text-[#3c50d8] md:text-[14px] lg:text-[15px]"
+                  "text-[10px] text-[#3c50d8] md:text-[14px] lg:text-[15px]"
                 }
                 wordSpace={"mr-[0.25em]"}
                 charSpace={"mr-[0.01em]"}
@@ -254,9 +218,47 @@ const About = () => {
 
 
              </div>
+
+             
           
             </div>
 
+
+            <div className="flex flex-col gap-3 m-2 w-[100%] text-start">
+              <AnimatedTitle
+                text={"PUKAT DIGITAL"}
+                className={
+                  "text-[24px] text-[#e4ded7] md:text-[30px] lg:text-[20px]"
+                }
+                wordSpace={"mr-[0.25em]"}
+                charSpace={"mr-[0.01em]"}
+              />
+             <div className="flex flex-row">
+             <AnimatedTitle
+                text={"• Mobile App Developer"}
+                className={
+                  "text-[10px] text-[#e4ded7] md:text-[14px] lg:text-[15px]"
+                }
+                wordSpace={"mr-[0.25em]"}
+                charSpace={"mr-[0.01em]"}
+              />
+               <AnimatedTitle
+                text={"(May, 2020 - Feb, 2023)"}
+                className={
+                  "text-[10px] text-[#3c50d8] md:text-[14px] lg:text-[15px]"
+                }
+                wordSpace={"mr-[0.25em]"}
+                charSpace={"mr-[0.01em]"}
+              />
+
+
+             </div>
+
+             
+          
+            </div>
+
+          
 
 
           <div className=" h-20"/>
@@ -275,9 +277,9 @@ const About = () => {
 
 <div className="flex flex-col gap-3 m-2 w-[100%] text-start ">
               <AnimatedTitle
-                text={"MS Sustainable and Autonomous Systems"}
+                text={"Bachelor of Science in Information Technology"}
                 className={
-                  "text-[24px] text-[#e4ded7] md:text-[30px] lg:text-[20px]"
+                  "text-[22px] text-[#e4ded7] md:text-[30px] lg:text-[20px]"
                 }
                 wordSpace={"mr-[0.25em]"}
                 charSpace={"mr-[0.01em]"}
@@ -286,17 +288,17 @@ const About = () => {
              <div className=" flex flex-row">
 
               <AnimatedTitle
-                text={"• University of Vaasa, Vaasa"}
+                text={"• University of Education, Lahore"}
                 className={
-                  "text-[13px] text-[#e4ded7] md:text-[14px] lg:text-[15px]"
+                  "text-[10px] text-[#e4ded7] md:text-[14px] lg:text-[15px]"
                 }
                 wordSpace={"mr-[0.25em]"}
                 charSpace={"mr-[0.01em]"}
               />            
                 <AnimatedTitle
-                text={"(2024)"}
+                text={"(2016-2020)"}
                 className={
-                  "text-[8px] text-[#3c50d8] md:text-[14px] lg:text-[15px]"
+                  "text-[10px] text-[#3c50d8] md:text-[14px] lg:text-[15px]"
                 }
                 wordSpace={"mr-[0.25em]"}
                 charSpace={"mr-[0.01em]"}
@@ -311,9 +313,9 @@ const About = () => {
 
             <div className="flex flex-col gap-3 m-2 w-[100%] text-start ">
               <AnimatedTitle
-                text={"MS Data Sciences"}
+                text={"ICS"}
                 className={
-                  "text-[24px] text-[#e4ded7] md:text-[30px] lg:text-[20px]"
+                  "text-[22px] text-[#e4ded7] md:text-[30px] lg:text-[20px]"
                 }
                 wordSpace={"mr-[0.25em]"}
                 charSpace={"mr-[0.01em]"}
@@ -321,17 +323,17 @@ const About = () => {
               
                <div className=" flex flex-row">
               <AnimatedTitle
-                text={"• University of Management and Technology, Lahore "}
+                text={"• Punjab Collage, Lahore "}
                 className={
-                  "text-[13px] text-[#e4ded7] md:text-[14px] lg:text-[15px]"
+                  "text-[10px] text-[#e4ded7] md:text-[14px] lg:text-[15px]"
                 }
                 wordSpace={"mr-[0.25em]"}
                 charSpace={"mr-[0.01em]"}
               />            
                 <AnimatedTitle
-                text={"(2017-2020)"}
+                text={"(2014-2016)"}
                 className={
-                  "text-[8px] text-[#3c50d8] md:text-[14px] lg:text-[15px]"
+                  "text-[10px] text-[#3c50d8] md:text-[14px] lg:text-[15px]"
                 }
                 wordSpace={"mr-[0.25em]"}
                 charSpace={"mr-[0.01em]"}
@@ -340,33 +342,7 @@ const About = () => {
             </div>
 
 
-          <div className="flex flex-col gap-3 m-2 w-[100%] text-start ">
-              <AnimatedTitle
-                text={"BS Software Engineering"}
-                className={
-                  "text-[24px] text-[#e4ded7] md:text-[30px] lg:text-[20px]"
-                }
-                wordSpace={"mr-[0.25em]"}
-                charSpace={"mr-[0.01em]"}
-              />
-              
-              <div className=" flex flex-row">
-
-                 <AnimatedTitle
-                      text={"• University of Management and Technology, Lahore"}
-                         className={"text-[13px] text-[#e4ded7] md:text-[14px] lg:text-[15px]"}
-                         wordSpace={"mr-[0.25em]"}
-                        charSpace={"mr-[0.01em]"}
-                              />            
-                      <AnimatedTitle
-                          text={"(2012-2016)"}
-                          className={"text-[8px] text-[#3c50d8] md:text-[14px] lg:text-[15px]"}
-                          wordSpace={"mr-[0.25em]"}
-                          charSpace={"mr-[0.01em]"}
-                            />
-                        </div>
-               
-            </div>
+         
 
       </div>
     </section>

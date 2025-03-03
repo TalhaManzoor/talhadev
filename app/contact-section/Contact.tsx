@@ -45,7 +45,7 @@ const Contact = () => {
             />
             <div className="bor der mt-5 flex w-[298px] items-center gap-1 md:w-[335px] md:gap-2.5">
               <Link
-                href="mailto:usmanmanzoor243@gmail.com?subject=Lets%20work%20together!&amp;body=Hello%2C%20I%20think%20we%20need%20you%20to%20work%20on%2Fcollaborate%20this%20particular%20product...%20Reach%20out%20as%20soon%20as%20you%20can."
+                href="mailto:talhamanzoor134@gmail.com?subject=Lets%20work%20together!&amp;body=Hello%2C%20I%20think%20we%20need%20you%20to%20work%20on%2Fcollaborate%20this%20particular%20product...%20Reach%20out%20as%20soon%20as%20you%20can."
                 target="_blank"
                 aria-label="Send me an email"
                 className="bor der mt-1 w-[147px] flex-1 underline underline-offset-2 hover:no-underline sm:mt-2 sm:w-[170px] md:mt-3 lg:mt-4"
@@ -91,7 +91,7 @@ const Contact = () => {
               />
             </Link> */}
             <Link
-              href="https://www.linkedin.com/in/muhammad-usman-manzoor-281621a7/"
+              href="https://www.linkedin.com/in/muhammad-talha-166b11168/"
               target="_blank"
               aria-label="View LinkedIn Profile"
             >
@@ -104,7 +104,7 @@ const Contact = () => {
                 charSpace={"mr-[0.01em]"}
               />
             </Link>
-            <Link
+            {/* <Link
               href="https://x.com/musmanmanzoor"
               target="_blank"
               aria-label="View X Profile"
@@ -117,9 +117,9 @@ const Contact = () => {
                 wordSpace={"mr-[0.25em]"}
                 charSpace={"mr-[0.01em]"}
               />
-            </Link>
+            </Link> */}
             <Link
-              href="https://www.instagram.com/muhammad.usman.manzoor/"
+              href="https://www.instagram.com/itxtalha___/"
               target="_blank"
               aria-label="View Instagram Profile"
             >

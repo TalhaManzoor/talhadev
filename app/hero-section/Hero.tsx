@@ -4,7 +4,7 @@ import { monaSans } from "../fonts/monaSans";
 import { motion } from "framer-motion";
 import { imageAnimation, bodyAnimation } from "../animations/animations";
 import AnimatedWords from "../animations/AnimatedWords";
-import profile from "../../public/profiless.jpeg";
+import profile from "../../public/profile.jpeg";
 
 const Hero = () => {
   return (
@@ -34,7 +34,7 @@ const Hero = () => {
 
         <div className="flex gap-10 text-[#e4ded7] sm:gap-12 md:gap-14 lg:gap-14">
           <Link
-            href="https://www.instagram.com/muhammad.usman.manzoor/"
+            href="https://www.instagram.com/itxtalha___/"
             target="_blank"
             aria-label="View GitHub Profile"
           >
@@ -46,7 +46,7 @@ const Hero = () => {
             </motion.p>
           </Link>
           <Link
-            href="https://www.linkedin.com/in/muhammad-usman-manzoor-281621a7/"
+            href="https://www.linkedin.com/in/muhammad-talha-166b11168/"
             target="_blank"
             aria-label="View LinkedIn Profile"
           >
@@ -57,7 +57,7 @@ const Hero = () => {
               LN
             </motion.p>
           </Link>
-          <Link
+          {/* <Link
             href="https://x.com/musmanmanzoor"
             target="_blank"
             aria-label="View X Profile"
@@ -68,7 +68,7 @@ const Hero = () => {
             >
               X
             </motion.p>
-          </Link>
+          </Link> */}
           
         </div>
       </div>
@@ -84,14 +84,14 @@ const Hero = () => {
             <Image
               src={profile}
               priority
-              alt="USMAN MANZOOR"
-              data-blobity-tooltip="USMAN MANZOOR"
+              alt="TALHA MANZOOR"
+              data-blobity-tooltip="TALHA MANZOOR"
               data-blobity-invert="false"
               className=" w-[150px] h-[150px] rounded-[100px] grayscale hover:grayscale-0 md:w-[200px] md:h-[200px] md:rounded-[100px] lg:w-[200px] lg:h-[200px]"
             />
           </motion.div>
           <AnimatedWords
-            title="USMAN MANZOOR"
+            title="TALHA MANZOOR"
             style="inline-block overflow-hidden pt-1 -mr-4 sm:-mr-5 md:-mr-7 lg:-mr-9 -mb-1 sm:-mb-2 md:-mb-3 lg:-mb-4"
           />
           
@@ -108,7 +108,7 @@ const Hero = () => {
           variants={bodyAnimation}
         >
           <p className="z-50 text-center text-[16px] font-medium text-[#e4ded7] md:text-[20px] lg:text-left">
-          Passionate about integrating AI into real-world autonomous systems{" "}
+          Building high-performance apps that redefine user experience.{" "}
             {/* <Link
               href="https://www.korahq.com/"
               target="_blank"
@@ -126,7 +126,7 @@ const Hero = () => {
           variants={bodyAnimation}
         >
           <p className="text-right text-[16px] font-semibold text-[#e4ded7] md:text-[20px]">
-          Exploring AI-Powered Solutions for Real-World Challenges
+          Engineering next-gen mobile and web experiences.
           </p>
         </motion.div>
       </div>
