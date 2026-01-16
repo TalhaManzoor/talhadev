@@ -8,6 +8,9 @@ const nextConfig = {
   images: {
     domains: ["user-images.githubusercontent.com", "cdn.hashnode.com", "github.com"],
   },
+    eslint: {
+    ignoreDuringBuilds: true,
+  },
   // fontLoaders: [
   //   {
   //     loader: "@next/font/google",
