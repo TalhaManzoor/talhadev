@@ -128,36 +128,7 @@ const About = () => {
           charSpace={"mr-[0.001em]"}
         />
 
-          <div className="flex flex-col gap-3 m-2 w-[100%] text-start ">
-              <AnimatedTitle
-                text={"SOFTKEL"}
-                className={
-                  "text-[24px] text-[#e4ded7] md:text-[30px] lg:text-[20px]"
-                }
-                wordSpace={"mr-[0.25em]"}
-                charSpace={"mr-[0.01em]"}
-              />
-            
-               <div className="flex flex-row">
-               <AnimatedTitle
-                text={"• Mobile & WEB Developer"}
-                className={
-                  "text-[10px] text-[#e4ded7] md:text-[14px] lg:text-[15px]"
-                }
-                wordSpace={"mr-[0.25em]"}
-                charSpace={"mr-[0.01em]"}
-              />
-              <AnimatedTitle
-                text={"(March 2023 - Present)"}
-                className={
-                  "text-[10px] text-[#3c50d8] md:text-[14px] lg:text-[15px]"
-                }
-                wordSpace={"mr-[0.25em]"}
-                charSpace={"mr-[0.01em]"}
-              />
-               </div>
-            </div>
-
+         
             <div className="flex flex-col gap-3 m-2 w-[100%] text-start">
               <AnimatedTitle
                 text={"Apporater"}
@@ -177,7 +148,7 @@ const About = () => {
                 charSpace={"mr-[0.01em]"}
               />
                <AnimatedTitle
-                text={"(Aug, 2024 - Jan,2025)"}
+                text={"(Aug, 2024 - Present)"}
                 className={
                   "text-[10px] text-[#3c50d8] md:text-[14px] lg:text-[15px]"
                 }
@@ -188,6 +159,10 @@ const About = () => {
            
            
             </div>
+
+
+            
+
 
             <div className="flex flex-col gap-3 m-2 w-[100%] text-start">
               <AnimatedTitle
@@ -221,6 +196,39 @@ const About = () => {
 
              
           
+            </div>
+
+
+
+
+             <div className="flex flex-col gap-3 m-2 w-[100%] text-start ">
+              <AnimatedTitle
+                text={"SOFTKEL"}
+                className={
+                  "text-[24px] text-[#e4ded7] md:text-[30px] lg:text-[20px]"
+                }
+                wordSpace={"mr-[0.25em]"}
+                charSpace={"mr-[0.01em]"}
+              />
+            
+               <div className="flex flex-row">
+               <AnimatedTitle
+                text={"• Mobile & WEB Developer"}
+                className={
+                  "text-[10px] text-[#e4ded7] md:text-[14px] lg:text-[15px]"
+                }
+                wordSpace={"mr-[0.25em]"}
+                charSpace={"mr-[0.01em]"}
+              />
+              <AnimatedTitle
+                text={"(March, 2023 - Jun, 2024)"}
+                className={
+                  "text-[10px] text-[#3c50d8] md:text-[14px] lg:text-[15px]"
+                }
+                wordSpace={"mr-[0.25em]"}
+                charSpace={"mr-[0.01em]"}
+              />
+               </div>
             </div>
 
 

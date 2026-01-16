@@ -10,8 +10,20 @@ export type ProjectProps = {
 };
 
 export const devProjects = [
-  {
+
+    {
     id: 0,
+    name: "Urban Developer",
+    description:
+      "Discover convenience with the Urban Developers mobile app! Seamlessly pay bills, lodge complaints, and stay updated on facilities, upcoming news, events, and standard procedures—all from the comfort of your home.",
+    technologies: ["Flutter", "Payment Gateway", "Dart"],
+    github: "",
+    demo: "",
+    image: require(".//../../public/projectsImages/urbandeveloper.jpeg"),
+    available: true,
+  },
+  {
+    id: 1,
     name: "DripDollars",
     description:
       "DripDollars lets you earn money by walking, watching ads, playing games, and completing surveys.",
@@ -22,7 +34,7 @@ export const devProjects = [
     available: true,
   },
   {
-    id: 1,
+    id: 2,
     name: "IQProspects",
     description:
       "IQProspects CRM App is a mobile sales and service platform for Banks and Credit Unions. IQProspects app helps your bankers be more productive and generate more business.",
@@ -32,8 +44,19 @@ export const devProjects = [
     image: require(".//../../public/projectsImages/IQProspects.png"),
     available: true,
   },
+    {
+    id: 3,
+    name: "Smart HR",
+    description:
+      "Smart HR is a modern mobile app that streamlines employee management, attendance tracking, leave requests, and performance monitoring with a clean, user-friendly interface.",
+    technologies: ["Flutter", "Dart"],
+    github: "",
+    demo: "",
+    image: require(".//../../public/projectsImages/smarthr.png"),
+    available: true,
+  },
   {
-    id: 2,
+    id: 4,
     name: "Web PR",
     description:
       "Streamlined web app for managing, tracking, and approving PR requests with ease.",
@@ -44,7 +67,7 @@ export const devProjects = [
     available: true,
   },
   {
-    id: 3,
+    id: 5,
     name: "Dealer App",
     description:
       "Dealer app for logging daily sales, placing orders, and managing complaints efficiently.",
@@ -55,7 +78,7 @@ export const devProjects = [
     available: true,
   },
   {
-    id: 4,
+    id: 6,
     name: "Sale App",
     description:
       "Sales app for users to easily post, track, and manage their sales.",
@@ -66,7 +89,7 @@ export const devProjects = [
     available: true,
   },
   {
-    id: 5,
+    id: 7,
     name: "After Sale App",
     description:
       "After Sale app for managing complaints with roles for sales coordinators, supervisors, and service vendors.",
